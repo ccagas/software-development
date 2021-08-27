@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Student>
+	<StudentId>123456</StudentId>
+	<Name>Faye Test</Name>
+	<Calculations>
+		<Calculation>
+			<CalculationId>321654</CalculationId>
+			<IsCorrect>True</IsCorrect>
+			<Operation>+</Operation>
+			<InputNumber>
+				<Number1>3</Number1>
+				<Number2>2</Number2>
+				<ExpectedResult>5</ExpectedResult>
+			</InputNumber>
+		</Calculation>
+		<Calculation>
+			<CalculationId>987654</CalculationId>
+			<IsCorrect>False</IsCorrect>
+			<Operation>+</Operation>
+			<InputNumber>
+				<Number1>9</Number1>
+				<Number2>5</Number2>
+				<ExpectedResult>15</ExpectedResult>
+			</InputNumber>
+		</Calculation>
+	</Calculations>
+</Student>
