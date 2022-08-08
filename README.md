@@ -1,2 +1,2 @@
 # software-development
-My assignments from Software Development Fundamentals course
+Projects in Software Development Fundamentals course
